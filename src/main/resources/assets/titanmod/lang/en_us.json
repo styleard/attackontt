@@ -1,0 +1,16 @@
+{
+  "item.titanmod.giant_serum": "Warrior Giant Serum",
+  "item.titanmod.mindless_giant_spawn_egg": "Mindless Giant Spawn Egg",
+  "effect.titanmod.giant_power": "Warrior Giant Power",
+  "effect.titanmod.giant_form": "Warrior Giant Form",
+  "entity.titanmod.mindless_giant": "Mindless Giant",
+  "entity.titanmod.warrior_giant": "Warrior Giant",
+  "key.titanmod.transform": "Transform into Warrior Giant",
+  "key.categories.titanmod": "Titan Giants",
+  "itemGroup.titanmod": "Titan Giants",
+  "msg.titanmod.serum_used": "You gained the Warrior Giant power! Press Shift+M to transform.",
+  "msg.titanmod.already_has": "You already have this power.",
+  "msg.titanmod.no_power": "You need the Warrior Giant Serum first.",
+  "msg.titanmod.no_space": "Not enough free space (4x15 blocks) to transform here.",
+  "msg.titanmod.cooldown": "Wait a moment before transforming again."
+}

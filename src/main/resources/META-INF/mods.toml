@@ -1,0 +1,32 @@
+modLoader="javafml"
+loaderVersion="[37,)"
+license="MIT"
+
+[[mods]]
+modId="titanmod"
+version="1.0.0"
+displayName="Titan Giants (AOT style mod)"
+description='''
+Original giants: Mindless Giant and Warrior Giant. Drink the serum, then press Shift+M to transform.
+'''
+
+[[dependencies.titanmod]]
+modId="forge"
+mandatory=true
+versionRange="[37,)"
+ordering="NONE"
+side="BOTH"
+
+[[dependencies.titanmod]]
+modId="minecraft"
+mandatory=true
+versionRange="[1.17.1,1.18)"
+ordering="NONE"
+side="BOTH"
+
+[[dependencies.titanmod]]
+modId="geckolib3"
+mandatory=true
+versionRange="[3.0.0,)"
+ordering="AFTER"
+side="BOTH"

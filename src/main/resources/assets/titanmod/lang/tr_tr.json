@@ -1,0 +1,16 @@
+{
+  "item.titanmod.giant_serum": "Savaş Devi Serumu",
+  "item.titanmod.mindless_giant_spawn_egg": "Akılsız Dev Yumurtası",
+  "effect.titanmod.giant_power": "Savaş Devi Gücü",
+  "effect.titanmod.giant_form": "Savaş Devi Formu",
+  "entity.titanmod.mindless_giant": "Akılsız Dev",
+  "entity.titanmod.warrior_giant": "Savaş Devi",
+  "key.titanmod.transform": "Savaş Devine Dönüş",
+  "key.categories.titanmod": "Titan Devleri",
+  "itemGroup.titanmod": "Titan Devleri",
+  "msg.titanmod.serum_used": "Savaş Devi gücünü kazandın! Dönüşmek için Shift+M bas.",
+  "msg.titanmod.already_has": "Bu güce zaten sahipsin.",
+  "msg.titanmod.no_power": "Önce Savaş Devi Serumu içmelisin.",
+  "msg.titanmod.no_space": "Dönüşmek için yeterli boş alan (4x15 blok) yok.",
+  "msg.titanmod.cooldown": "Tekrar dönüşmeden önce biraz bekle."
+}
